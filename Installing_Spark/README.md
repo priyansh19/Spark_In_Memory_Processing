@@ -12,4 +12,4 @@
 
 - Unzip and Extract your download into a local folder.
 
-- Set the Environmental variables and you are ready to go!
+- Set the Environment variables and you are ready to go!
