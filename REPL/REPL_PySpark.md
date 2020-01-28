@@ -7,6 +7,7 @@ Steps to run a simple spark job:
 > pyspark
 ```
 - Now write a program in python to insert a sample.txt file and perform following operations:
+	
 	- Count the total no. of lines in the text file
 	- Display the content of the first line of txt file
 ```python
